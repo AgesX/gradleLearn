@@ -1,0 +1,7 @@
+include ':app', ':smartcropperlib'
+
+
+project(':smartcropperlib').projectDir = new File('/Users/jzd/Downloads/SmartCropper-master', 'smartcropperlib')
+
+
+
